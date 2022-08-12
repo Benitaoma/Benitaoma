@@ -29,12 +29,6 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/uzoma-benita-iheka-4a4429156#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/uzoma-benita-iheka-4a4429156#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/blexxey#gh-light-mode-only)
+[![website](instagram.svg)](https://instagram.com/blexxey#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/blexxey#gh-dark-mode-only)
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[file:///C:/Users/120N1%20GADGETS/Downloads/instagram%20(1).svg].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />
 
-<br />
-<br />
-
-[twitter]: https://twitter.com/social_nita
