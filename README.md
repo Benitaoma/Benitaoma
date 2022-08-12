@@ -31,3 +31,8 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/blexxey#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/blexxey#gh-dark-mode-only)
+
+<br />
+<br />
+
+[twitter]: https://twitter.com/social_nita
