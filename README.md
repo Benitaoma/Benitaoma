@@ -1,4 +1,4 @@
-# Hi there, I'm Benita - aka [BEE][Twitter Follow] 👋 
+# Hi there, I'm Benita 👋 
 
 [![Website](https://img.shields.io/website?label=educrunchs.com&style=for-the-badge&url=https%3A%2F%2Feducrunchs.com/)](https://educrunchs.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/social_nita?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsocial_nita&screen_name=Nita)
@@ -31,6 +31,8 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/blexxey#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/blexxey#gh-dark-mode-only)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[file:///C:/Users/120N1%20GADGETS/Downloads/instagram%20(1).svg].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />
 
 <br />
 <br />
