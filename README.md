@@ -32,4 +32,5 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/blexxey#gh-light-mode-only)
 [![website](instagram%20(1).svg)](https://instagram.com/blexxey#gh-dark-mode-only)
 
-![smflogo](http://www.instagram.com/blexxey)[http://www.instagram.com/blexxey]
+
+![instagram](https://user-images.githubusercontent.com/98689473/184276320-c2e6749d-26f0-43e9-af0a-d4af739ecc0c.svg)[http://www.instagram.com/blexxey]
