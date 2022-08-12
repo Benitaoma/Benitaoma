@@ -32,4 +32,4 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/blexxey#gh-light-mode-only)
 [![website](instagram%20(1).svg)](https://instagram.com/blexxey#gh-dark-mode-only)
 
-
+(https://instagram.com/blexxey#gh-dark-mode-only)
