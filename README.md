@@ -30,5 +30,5 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/uzoma-benita-iheka-4a4429156#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](instagram.svg)](https://instagram.com/blexxey#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/blexxey#gh-dark-mode-only)
+[![website](instagram.svg)](https://instagram.com/blexxey#gh-dark-mode-only)
 
