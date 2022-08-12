@@ -32,7 +32,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/blexxey#gh-light-mode-only)
 [![website](instagram%20(1).svg)](https://instagram.com/blexxey#gh-dark-mode-only)
 
-![Black-icon-Twitter-logo-transparent-PNG](https://user-images.githubusercontent.com/98689473/184277359-35618c67-113c-41ad-8549-7e88b8390aa9.png)
+![Black-icon-Twitter-logo-transparent-PNG](https://user-images.githubusercontent.com/98689473/184277359-35618c67-113c-41ad-8549-7e88b8390aa9.svg)
 ![instagram-logo-transparent-background-png-5](https://user-images.githubusercontent.com/98689473/184277393-9bfb8a2a-ba10-497a-b41c-6d2bcc322937.png)
 
 [35] https://twitter.com/social_nita
