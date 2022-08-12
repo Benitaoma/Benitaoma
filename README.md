@@ -36,5 +36,5 @@
 ![instagram-logo-transparent-background-png-5](instagram.com)
 
 [35] https://twitter.com/social_nita 
-[![website](https://user-images.githubusercontent.com/98689473/184277393-9bfb8a2a-ba10-497a-b41c-6d2bcc322937.png)]((https://instagram.com/blexxey)
+[![website](https://user-images.githubusercontent.com/98689473/184277393-9bfb8a2a-ba10-497a-b41c-6d2bcc322937.png)](https:www.//instagram.com/blexxey)
 
