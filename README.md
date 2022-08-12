@@ -32,5 +32,5 @@
 [![website](./img/instagram-light.png)](https://instagram.com/blexxey#gh-light-mode-only)
 [![website](./img/instagram-dark.png)](https://instagram.com/blexxey#gh-dark-mode-only)
 
-[![website](https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg)]
+[![website](https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg)](https:insta.com)
 
