@@ -32,14 +32,3 @@
 [![website](./img/instagram-light.png)](https://instagram.com/blexxey#gh-light-mode-only)
 [![website](./img/instagram-dark.png)](https://instagram.com/blexxey#gh-dark-mode-only)
 
-[![website](https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg)](https:insta.com)
-
-<hr />
-
-<p align="center">
-    <a href="https://twitter.com/PriMendiratta" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/twitter.svg" alt="PriMendiratta" height="30" width="30" /></a>
-    <a href="https://www.linkedin.com/in/Prince-Mendiratta" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/linkedin.svg" alt="Prince-Mendiratta" height="30" width="30" /></a>
-    <a href="https://instagram.com/prince.mendiratta" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/instagram.svg" alt="prince.mendiratta" height="30" width="30" /></a>
-    <a href="https://telegram.dog/anubisxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="anubisxx" height="30" width="30" /></a>
-</p>
-
