@@ -26,8 +26,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/social_nita#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/social_nita#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://i.stack.imgur.com/gVE0j.png)](https://linkedin.com/in/uzoma-benita-iheka-4a4429156#gh-light-mode-only)
-[![website](https://i.stack.imgur.com/gVE0j.png)](https://linkedin.com/in/uzoma-benita-iheka-4a4429156#gh-dark-mode-only)
+(https://i.stack.imgur.com/gVE0j.png)](https://linkedin.com/in/uzoma-benita-iheka-4a4429156#gh-light-mode-only)
+(https://i.stack.imgur.com/gVE0j.png)](https://linkedin.com/in/uzoma-benita-iheka-4a4429156#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.png)](https://instagram.com/blexxey#gh-light-mode-only)
 [![website](./img/instagram-dark.png)](https://instagram.com/blexxey#gh-dark-mode-only)
